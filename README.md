@@ -1,4 +1,4 @@
-# MemVP
+# HyperET
 Official code of ''HyperET: Efficient Training in Hyperbolic Space for
 Multi-modal Large Language Models''
 
