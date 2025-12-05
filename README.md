@@ -22,7 +22,7 @@ pip install -e .
 ## TODO 
 - [x] Implementation of fine-tuning experiments  
 - [ ] Implementation of pre-training experiments
-- [x] Implementation of simplify hyperbolic radius visualizations  
+- [x] Implementation of simplified hyperbolic radius visualizations  
 
 ## Data
 - For ScienceQA, please refer to the [official repo](https://github.com/lupantech/ScienceQA).
