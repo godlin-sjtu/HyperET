@@ -64,7 +64,7 @@ python test_SAM.py
 - [MemVP](https://github.com/JieShibo/MemVP)
 
 ## Citation
-
+Please consider citing our paper if the code is helpful in your research and development.
 ```
 @article{peng2025hyperet,
   title={HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models},
