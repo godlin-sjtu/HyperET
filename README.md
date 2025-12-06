@@ -1,4 +1,4 @@
-# HyperET
+# HyperET [NeurIPS 2025 Oral]
 Official code of ''HyperET: Efficient Training in Hyperbolic Space for
 Multi-modal Large Language Models''
 
